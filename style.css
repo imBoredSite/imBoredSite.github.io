@@ -1,0 +1,17 @@
+body {
+    background-image: url(cube.jpg);
+    background-size: cover;
+    display: grid;
+    font-family: arial;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1 {
+    color: navy;
+    font-size: 5vmax;
+    background-color: rgba(255,255,255,.6);
+    align-self: center;
+    justify-self: center;
+}
